@@ -6,7 +6,7 @@ This supplementary material for the paper "Enhancing the Accuracy and Comprehens
 ```text
 Prmt4TD/
 ├── Additional experiments/
-│   ├── data/    # Data files
+│   ├── Result tables/    # Data files
 │   ├── Prmt4TD_Additional experiments.pdf    # Experimental results
 ├── The ATs balanced dataset.zip    # Dataset
 ├── Hadoop case dataset.zip    #Case 
