@@ -1,5 +1,17 @@
 ## Supplementary Material
 This supplementary material for the paper "Enhancing the Accuracy and Comprehensibility in Architectural Tactics Detection via Small Model-Augmented Prompt Engineering" is organized as follows:
+
+# Project Structure
+
+```text
+Prmt4TD/
+├── Additional experiments/
+│   ├── data/    # Data files
+│   ├── Prmt4TD_Additional experiments.pdf    # Experimental results
+├── The ATs balanced dataset.zip    # Dataset
+├── Hadoop case dataset.zip    #Case 
+└── README.md
+
 > - <mark>The ATs balanced dataset.zip</mark>: The training dataset used by Prmt4TD includes preprocessed data and raw Java files.
 > - <mark>Hadoop case dataset.zip</mark>: The test dataset used by Prmt4TD includes preprocessed data and raw Java files.
 
