@@ -5,11 +5,16 @@ This supplementary material for the paper "Enhancing the Accuracy and Comprehens
 
 ```text
 Prmt4TD/
+├── TacticData dataset.zip    # Dataset
+├── Hadoop case.zip    #Case
+├── Experiments/
+│   ├── RQ1/    
+│   ├── RQ2/    
+│   ├── RQ3/    
+│   ├── RQ4/    
 ├── Additional experiments/
 │   ├── Result tables/    # Data files
 │   ├── Prmt4TD_Additional experiments.pdf    # Experimental results
-├── TacticData dataset.zip    # Dataset
-├── Hadoop case.zip    #Case 
 └── README.md
 ```
 
