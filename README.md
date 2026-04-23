@@ -14,7 +14,7 @@ Prmt4TD/
 │   ├── RQ4/    
 ├── Additional experiments/
 │   ├── Result tables/    # Data files
-│   ├── Prmt4TD_Additional experiments.pdf    # Experimental results
+│   ├── Prmt4TD_Additional experiments.pdf    # Additional experiments results
 └── README.md
 ```
 
