@@ -17,4 +17,4 @@ Result files location:
 - **Bagging**: `bagging.tsv`
 - **BERT**: `bert.tsv`
 - **Tactic_Det**: `Tactic_Det.tsv`
-- **prmt4TD**: `llm_result/CodeBERT_deepseek/TacticData/results.csv`
+- **Prmt4TD**: `llm_result/CodeBERT_deepseek/TacticData/results.csv`
